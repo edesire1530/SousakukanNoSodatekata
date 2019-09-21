@@ -1,6 +1,6 @@
 //
-//  PencilKitUITests.swift
-//  PencilKitUITests
+//  PencilKitDemoUITests.swift
+//  PencilKitDemoUITests
 //
 //  Created by gree_mini on 2019/09/22.
 //  Copyright © 2019 gree. All rights reserved.
@@ -8,7 +8,7 @@
 
 import XCTest
 
-class PencilKitUITests: XCTestCase {
+class PencilKitDemoUITests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.

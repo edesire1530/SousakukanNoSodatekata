@@ -7,66 +7,66 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		BDE93E222336BA8F0065A678 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDE93E212336BA8F0065A678 /* AppDelegate.swift */; };
-		BDE93E242336BA8F0065A678 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDE93E232336BA8F0065A678 /* SceneDelegate.swift */; };
-		BDE93E262336BA8F0065A678 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDE93E252336BA8F0065A678 /* ViewController.swift */; };
-		BDE93E292336BA8F0065A678 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BDE93E272336BA8F0065A678 /* Main.storyboard */; };
-		BDE93E2B2336BA900065A678 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BDE93E2A2336BA900065A678 /* Assets.xcassets */; };
-		BDE93E2E2336BA900065A678 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BDE93E2C2336BA900065A678 /* LaunchScreen.storyboard */; };
-		BDE93E392336BA900065A678 /* PencilKitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDE93E382336BA900065A678 /* PencilKitTests.swift */; };
-		BDE93E442336BA900065A678 /* PencilKitUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDE93E432336BA900065A678 /* PencilKitUITests.swift */; };
+		BD1DB9582336BF7B009E05E2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD1DB9572336BF7B009E05E2 /* AppDelegate.swift */; };
+		BD1DB95A2336BF7B009E05E2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD1DB9592336BF7B009E05E2 /* SceneDelegate.swift */; };
+		BD1DB95C2336BF7B009E05E2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD1DB95B2336BF7B009E05E2 /* ViewController.swift */; };
+		BD1DB95F2336BF7B009E05E2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD1DB95D2336BF7B009E05E2 /* Main.storyboard */; };
+		BD1DB9612336BF7C009E05E2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD1DB9602336BF7C009E05E2 /* Assets.xcassets */; };
+		BD1DB9642336BF7C009E05E2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD1DB9622336BF7C009E05E2 /* LaunchScreen.storyboard */; };
+		BD1DB96F2336BF7C009E05E2 /* PencilKitDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD1DB96E2336BF7C009E05E2 /* PencilKitDemoTests.swift */; };
+		BD1DB97A2336BF7C009E05E2 /* PencilKitDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD1DB9792336BF7C009E05E2 /* PencilKitDemoUITests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		BDE93E352336BA900065A678 /* PBXContainerItemProxy */ = {
+		BD1DB96B2336BF7C009E05E2 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = BDE93E162336BA8F0065A678 /* Project object */;
+			containerPortal = BD1DB94C2336BF7B009E05E2 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = BDE93E1D2336BA8F0065A678;
-			remoteInfo = PencilKit;
+			remoteGlobalIDString = BD1DB9532336BF7B009E05E2;
+			remoteInfo = PencilKitDemo;
 		};
-		BDE93E402336BA900065A678 /* PBXContainerItemProxy */ = {
+		BD1DB9762336BF7C009E05E2 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = BDE93E162336BA8F0065A678 /* Project object */;
+			containerPortal = BD1DB94C2336BF7B009E05E2 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = BDE93E1D2336BA8F0065A678;
-			remoteInfo = PencilKit;
+			remoteGlobalIDString = BD1DB9532336BF7B009E05E2;
+			remoteInfo = PencilKitDemo;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		BDE93E1E2336BA8F0065A678 /* PencilKit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PencilKit.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		BDE93E212336BA8F0065A678 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		BDE93E232336BA8F0065A678 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		BDE93E252336BA8F0065A678 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		BDE93E282336BA8F0065A678 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		BDE93E2A2336BA900065A678 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		BDE93E2D2336BA900065A678 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		BDE93E2F2336BA900065A678 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		BDE93E342336BA900065A678 /* PencilKitTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PencilKitTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		BDE93E382336BA900065A678 /* PencilKitTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PencilKitTests.swift; sourceTree = "<group>"; };
-		BDE93E3A2336BA900065A678 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		BDE93E3F2336BA900065A678 /* PencilKitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PencilKitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		BDE93E432336BA900065A678 /* PencilKitUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PencilKitUITests.swift; sourceTree = "<group>"; };
-		BDE93E452336BA900065A678 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BD1DB9542336BF7B009E05E2 /* PencilKitDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PencilKitDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BD1DB9572336BF7B009E05E2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		BD1DB9592336BF7B009E05E2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		BD1DB95B2336BF7B009E05E2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		BD1DB95E2336BF7B009E05E2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		BD1DB9602336BF7C009E05E2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		BD1DB9632336BF7C009E05E2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		BD1DB9652336BF7C009E05E2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BD1DB96A2336BF7C009E05E2 /* PencilKitDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PencilKitDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		BD1DB96E2336BF7C009E05E2 /* PencilKitDemoTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PencilKitDemoTests.swift; sourceTree = "<group>"; };
+		BD1DB9702336BF7C009E05E2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BD1DB9752336BF7C009E05E2 /* PencilKitDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PencilKitDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		BD1DB9792336BF7C009E05E2 /* PencilKitDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PencilKitDemoUITests.swift; sourceTree = "<group>"; };
+		BD1DB97B2336BF7C009E05E2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		BDE93E1B2336BA8F0065A678 /* Frameworks */ = {
+		BD1DB9512336BF7B009E05E2 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BDE93E312336BA900065A678 /* Frameworks */ = {
+		BD1DB9672336BF7C009E05E2 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BDE93E3C2336BA900065A678 /* Frameworks */ = {
+		BD1DB9722336BF7C009E05E2 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -76,138 +76,138 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		BDE93E152336BA8F0065A678 = {
+		BD1DB94B2336BF7B009E05E2 = {
 			isa = PBXGroup;
 			children = (
-				BDE93E202336BA8F0065A678 /* PencilKit */,
-				BDE93E372336BA900065A678 /* PencilKitTests */,
-				BDE93E422336BA900065A678 /* PencilKitUITests */,
-				BDE93E1F2336BA8F0065A678 /* Products */,
+				BD1DB9562336BF7B009E05E2 /* PencilKitDemo */,
+				BD1DB96D2336BF7C009E05E2 /* PencilKitDemoTests */,
+				BD1DB9782336BF7C009E05E2 /* PencilKitDemoUITests */,
+				BD1DB9552336BF7B009E05E2 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		BDE93E1F2336BA8F0065A678 /* Products */ = {
+		BD1DB9552336BF7B009E05E2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				BDE93E1E2336BA8F0065A678 /* PencilKit.app */,
-				BDE93E342336BA900065A678 /* PencilKitTests.xctest */,
-				BDE93E3F2336BA900065A678 /* PencilKitUITests.xctest */,
+				BD1DB9542336BF7B009E05E2 /* PencilKitDemo.app */,
+				BD1DB96A2336BF7C009E05E2 /* PencilKitDemoTests.xctest */,
+				BD1DB9752336BF7C009E05E2 /* PencilKitDemoUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		BDE93E202336BA8F0065A678 /* PencilKit */ = {
+		BD1DB9562336BF7B009E05E2 /* PencilKitDemo */ = {
 			isa = PBXGroup;
 			children = (
-				BDE93E212336BA8F0065A678 /* AppDelegate.swift */,
-				BDE93E232336BA8F0065A678 /* SceneDelegate.swift */,
-				BDE93E252336BA8F0065A678 /* ViewController.swift */,
-				BDE93E272336BA8F0065A678 /* Main.storyboard */,
-				BDE93E2A2336BA900065A678 /* Assets.xcassets */,
-				BDE93E2C2336BA900065A678 /* LaunchScreen.storyboard */,
-				BDE93E2F2336BA900065A678 /* Info.plist */,
+				BD1DB9572336BF7B009E05E2 /* AppDelegate.swift */,
+				BD1DB9592336BF7B009E05E2 /* SceneDelegate.swift */,
+				BD1DB95B2336BF7B009E05E2 /* ViewController.swift */,
+				BD1DB95D2336BF7B009E05E2 /* Main.storyboard */,
+				BD1DB9602336BF7C009E05E2 /* Assets.xcassets */,
+				BD1DB9622336BF7C009E05E2 /* LaunchScreen.storyboard */,
+				BD1DB9652336BF7C009E05E2 /* Info.plist */,
 			);
-			path = PencilKit;
+			path = PencilKitDemo;
 			sourceTree = "<group>";
 		};
-		BDE93E372336BA900065A678 /* PencilKitTests */ = {
+		BD1DB96D2336BF7C009E05E2 /* PencilKitDemoTests */ = {
 			isa = PBXGroup;
 			children = (
-				BDE93E382336BA900065A678 /* PencilKitTests.swift */,
-				BDE93E3A2336BA900065A678 /* Info.plist */,
+				BD1DB96E2336BF7C009E05E2 /* PencilKitDemoTests.swift */,
+				BD1DB9702336BF7C009E05E2 /* Info.plist */,
 			);
-			path = PencilKitTests;
+			path = PencilKitDemoTests;
 			sourceTree = "<group>";
 		};
-		BDE93E422336BA900065A678 /* PencilKitUITests */ = {
+		BD1DB9782336BF7C009E05E2 /* PencilKitDemoUITests */ = {
 			isa = PBXGroup;
 			children = (
-				BDE93E432336BA900065A678 /* PencilKitUITests.swift */,
-				BDE93E452336BA900065A678 /* Info.plist */,
+				BD1DB9792336BF7C009E05E2 /* PencilKitDemoUITests.swift */,
+				BD1DB97B2336BF7C009E05E2 /* Info.plist */,
 			);
-			path = PencilKitUITests;
+			path = PencilKitDemoUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		BDE93E1D2336BA8F0065A678 /* PencilKit */ = {
+		BD1DB9532336BF7B009E05E2 /* PencilKitDemo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BDE93E482336BA900065A678 /* Build configuration list for PBXNativeTarget "PencilKit" */;
+			buildConfigurationList = BD1DB97E2336BF7C009E05E2 /* Build configuration list for PBXNativeTarget "PencilKitDemo" */;
 			buildPhases = (
-				BDE93E1A2336BA8F0065A678 /* Sources */,
-				BDE93E1B2336BA8F0065A678 /* Frameworks */,
-				BDE93E1C2336BA8F0065A678 /* Resources */,
+				BD1DB9502336BF7B009E05E2 /* Sources */,
+				BD1DB9512336BF7B009E05E2 /* Frameworks */,
+				BD1DB9522336BF7B009E05E2 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = PencilKit;
-			productName = PencilKit;
-			productReference = BDE93E1E2336BA8F0065A678 /* PencilKit.app */;
+			name = PencilKitDemo;
+			productName = PencilKitDemo;
+			productReference = BD1DB9542336BF7B009E05E2 /* PencilKitDemo.app */;
 			productType = "com.apple.product-type.application";
 		};
-		BDE93E332336BA900065A678 /* PencilKitTests */ = {
+		BD1DB9692336BF7C009E05E2 /* PencilKitDemoTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BDE93E4B2336BA900065A678 /* Build configuration list for PBXNativeTarget "PencilKitTests" */;
+			buildConfigurationList = BD1DB9812336BF7C009E05E2 /* Build configuration list for PBXNativeTarget "PencilKitDemoTests" */;
 			buildPhases = (
-				BDE93E302336BA900065A678 /* Sources */,
-				BDE93E312336BA900065A678 /* Frameworks */,
-				BDE93E322336BA900065A678 /* Resources */,
+				BD1DB9662336BF7C009E05E2 /* Sources */,
+				BD1DB9672336BF7C009E05E2 /* Frameworks */,
+				BD1DB9682336BF7C009E05E2 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				BDE93E362336BA900065A678 /* PBXTargetDependency */,
+				BD1DB96C2336BF7C009E05E2 /* PBXTargetDependency */,
 			);
-			name = PencilKitTests;
-			productName = PencilKitTests;
-			productReference = BDE93E342336BA900065A678 /* PencilKitTests.xctest */;
+			name = PencilKitDemoTests;
+			productName = PencilKitDemoTests;
+			productReference = BD1DB96A2336BF7C009E05E2 /* PencilKitDemoTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		BDE93E3E2336BA900065A678 /* PencilKitUITests */ = {
+		BD1DB9742336BF7C009E05E2 /* PencilKitDemoUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BDE93E4E2336BA900065A678 /* Build configuration list for PBXNativeTarget "PencilKitUITests" */;
+			buildConfigurationList = BD1DB9842336BF7C009E05E2 /* Build configuration list for PBXNativeTarget "PencilKitDemoUITests" */;
 			buildPhases = (
-				BDE93E3B2336BA900065A678 /* Sources */,
-				BDE93E3C2336BA900065A678 /* Frameworks */,
-				BDE93E3D2336BA900065A678 /* Resources */,
+				BD1DB9712336BF7C009E05E2 /* Sources */,
+				BD1DB9722336BF7C009E05E2 /* Frameworks */,
+				BD1DB9732336BF7C009E05E2 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				BDE93E412336BA900065A678 /* PBXTargetDependency */,
+				BD1DB9772336BF7C009E05E2 /* PBXTargetDependency */,
 			);
-			name = PencilKitUITests;
-			productName = PencilKitUITests;
-			productReference = BDE93E3F2336BA900065A678 /* PencilKitUITests.xctest */;
+			name = PencilKitDemoUITests;
+			productName = PencilKitDemoUITests;
+			productReference = BD1DB9752336BF7C009E05E2 /* PencilKitDemoUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		BDE93E162336BA8F0065A678 /* Project object */ = {
+		BD1DB94C2336BF7B009E05E2 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1100;
 				LastUpgradeCheck = 1100;
 				ORGANIZATIONNAME = gree;
 				TargetAttributes = {
-					BDE93E1D2336BA8F0065A678 = {
+					BD1DB9532336BF7B009E05E2 = {
 						CreatedOnToolsVersion = 11.0;
 					};
-					BDE93E332336BA900065A678 = {
+					BD1DB9692336BF7C009E05E2 = {
 						CreatedOnToolsVersion = 11.0;
-						TestTargetID = BDE93E1D2336BA8F0065A678;
+						TestTargetID = BD1DB9532336BF7B009E05E2;
 					};
-					BDE93E3E2336BA900065A678 = {
+					BD1DB9742336BF7C009E05E2 = {
 						CreatedOnToolsVersion = 11.0;
-						TestTargetID = BDE93E1D2336BA8F0065A678;
+						TestTargetID = BD1DB9532336BF7B009E05E2;
 					};
 				};
 			};
-			buildConfigurationList = BDE93E192336BA8F0065A678 /* Build configuration list for PBXProject "PencilKit" */;
+			buildConfigurationList = BD1DB94F2336BF7B009E05E2 /* Build configuration list for PBXProject "PencilKitDemo" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -215,37 +215,37 @@
 				en,
 				Base,
 			);
-			mainGroup = BDE93E152336BA8F0065A678;
-			productRefGroup = BDE93E1F2336BA8F0065A678 /* Products */;
+			mainGroup = BD1DB94B2336BF7B009E05E2;
+			productRefGroup = BD1DB9552336BF7B009E05E2 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				BDE93E1D2336BA8F0065A678 /* PencilKit */,
-				BDE93E332336BA900065A678 /* PencilKitTests */,
-				BDE93E3E2336BA900065A678 /* PencilKitUITests */,
+				BD1DB9532336BF7B009E05E2 /* PencilKitDemo */,
+				BD1DB9692336BF7C009E05E2 /* PencilKitDemoTests */,
+				BD1DB9742336BF7C009E05E2 /* PencilKitDemoUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		BDE93E1C2336BA8F0065A678 /* Resources */ = {
+		BD1DB9522336BF7B009E05E2 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BDE93E2E2336BA900065A678 /* LaunchScreen.storyboard in Resources */,
-				BDE93E2B2336BA900065A678 /* Assets.xcassets in Resources */,
-				BDE93E292336BA8F0065A678 /* Main.storyboard in Resources */,
+				BD1DB9642336BF7C009E05E2 /* LaunchScreen.storyboard in Resources */,
+				BD1DB9612336BF7C009E05E2 /* Assets.xcassets in Resources */,
+				BD1DB95F2336BF7B009E05E2 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BDE93E322336BA900065A678 /* Resources */ = {
+		BD1DB9682336BF7C009E05E2 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BDE93E3D2336BA900065A678 /* Resources */ = {
+		BD1DB9732336BF7C009E05E2 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -255,60 +255,60 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		BDE93E1A2336BA8F0065A678 /* Sources */ = {
+		BD1DB9502336BF7B009E05E2 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BDE93E262336BA8F0065A678 /* ViewController.swift in Sources */,
-				BDE93E222336BA8F0065A678 /* AppDelegate.swift in Sources */,
-				BDE93E242336BA8F0065A678 /* SceneDelegate.swift in Sources */,
+				BD1DB95C2336BF7B009E05E2 /* ViewController.swift in Sources */,
+				BD1DB9582336BF7B009E05E2 /* AppDelegate.swift in Sources */,
+				BD1DB95A2336BF7B009E05E2 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BDE93E302336BA900065A678 /* Sources */ = {
+		BD1DB9662336BF7C009E05E2 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BDE93E392336BA900065A678 /* PencilKitTests.swift in Sources */,
+				BD1DB96F2336BF7C009E05E2 /* PencilKitDemoTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BDE93E3B2336BA900065A678 /* Sources */ = {
+		BD1DB9712336BF7C009E05E2 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BDE93E442336BA900065A678 /* PencilKitUITests.swift in Sources */,
+				BD1DB97A2336BF7C009E05E2 /* PencilKitDemoUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		BDE93E362336BA900065A678 /* PBXTargetDependency */ = {
+		BD1DB96C2336BF7C009E05E2 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = BDE93E1D2336BA8F0065A678 /* PencilKit */;
-			targetProxy = BDE93E352336BA900065A678 /* PBXContainerItemProxy */;
+			target = BD1DB9532336BF7B009E05E2 /* PencilKitDemo */;
+			targetProxy = BD1DB96B2336BF7C009E05E2 /* PBXContainerItemProxy */;
 		};
-		BDE93E412336BA900065A678 /* PBXTargetDependency */ = {
+		BD1DB9772336BF7C009E05E2 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = BDE93E1D2336BA8F0065A678 /* PencilKit */;
-			targetProxy = BDE93E402336BA900065A678 /* PBXContainerItemProxy */;
+			target = BD1DB9532336BF7B009E05E2 /* PencilKitDemo */;
+			targetProxy = BD1DB9762336BF7C009E05E2 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		BDE93E272336BA8F0065A678 /* Main.storyboard */ = {
+		BD1DB95D2336BF7B009E05E2 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				BDE93E282336BA8F0065A678 /* Base */,
+				BD1DB95E2336BF7B009E05E2 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		BDE93E2C2336BA900065A678 /* LaunchScreen.storyboard */ = {
+		BD1DB9622336BF7C009E05E2 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				BDE93E2D2336BA900065A678 /* Base */,
+				BD1DB9632336BF7C009E05E2 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -316,7 +316,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		BDE93E462336BA900065A678 /* Debug */ = {
+		BD1DB97C2336BF7C009E05E2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -376,7 +376,7 @@
 			};
 			name = Debug;
 		};
-		BDE93E472336BA900065A678 /* Release */ = {
+		BD1DB97D2336BF7C009E05E2 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -430,160 +430,160 @@
 			};
 			name = Release;
 		};
-		BDE93E492336BA900065A678 /* Debug */ = {
+		BD1DB97F2336BF7C009E05E2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = PencilKit/Info.plist;
+				INFOPLIST_FILE = PencilKitDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = edesire.PencilKit;
+				PRODUCT_BUNDLE_IDENTIFIER = edesire.PencilKitDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		BDE93E4A2336BA900065A678 /* Release */ = {
+		BD1DB9802336BF7C009E05E2 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = PencilKit/Info.plist;
+				INFOPLIST_FILE = PencilKitDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = edesire.PencilKit;
+				PRODUCT_BUNDLE_IDENTIFIER = edesire.PencilKitDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
-		BDE93E4C2336BA900065A678 /* Debug */ = {
+		BD1DB9822336BF7C009E05E2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = PencilKitTests/Info.plist;
+				INFOPLIST_FILE = PencilKitDemoTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = edesire.PencilKitTests;
+				PRODUCT_BUNDLE_IDENTIFIER = edesire.PencilKitDemoTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PencilKit.app/PencilKit";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PencilKitDemo.app/PencilKitDemo";
 			};
 			name = Debug;
 		};
-		BDE93E4D2336BA900065A678 /* Release */ = {
+		BD1DB9832336BF7C009E05E2 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = PencilKitTests/Info.plist;
+				INFOPLIST_FILE = PencilKitDemoTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = edesire.PencilKitTests;
+				PRODUCT_BUNDLE_IDENTIFIER = edesire.PencilKitDemoTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PencilKit.app/PencilKit";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PencilKitDemo.app/PencilKitDemo";
 			};
 			name = Release;
 		};
-		BDE93E4F2336BA900065A678 /* Debug */ = {
+		BD1DB9852336BF7C009E05E2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = PencilKitUITests/Info.plist;
+				INFOPLIST_FILE = PencilKitDemoUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = edesire.PencilKitUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = edesire.PencilKitDemoUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = PencilKit;
+				TEST_TARGET_NAME = PencilKitDemo;
 			};
 			name = Debug;
 		};
-		BDE93E502336BA900065A678 /* Release */ = {
+		BD1DB9862336BF7C009E05E2 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = PencilKitUITests/Info.plist;
+				INFOPLIST_FILE = PencilKitDemoUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = edesire.PencilKitUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = edesire.PencilKitDemoUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = PencilKit;
+				TEST_TARGET_NAME = PencilKitDemo;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		BDE93E192336BA8F0065A678 /* Build configuration list for PBXProject "PencilKit" */ = {
+		BD1DB94F2336BF7B009E05E2 /* Build configuration list for PBXProject "PencilKitDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BDE93E462336BA900065A678 /* Debug */,
-				BDE93E472336BA900065A678 /* Release */,
+				BD1DB97C2336BF7C009E05E2 /* Debug */,
+				BD1DB97D2336BF7C009E05E2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BDE93E482336BA900065A678 /* Build configuration list for PBXNativeTarget "PencilKit" */ = {
+		BD1DB97E2336BF7C009E05E2 /* Build configuration list for PBXNativeTarget "PencilKitDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BDE93E492336BA900065A678 /* Debug */,
-				BDE93E4A2336BA900065A678 /* Release */,
+				BD1DB97F2336BF7C009E05E2 /* Debug */,
+				BD1DB9802336BF7C009E05E2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BDE93E4B2336BA900065A678 /* Build configuration list for PBXNativeTarget "PencilKitTests" */ = {
+		BD1DB9812336BF7C009E05E2 /* Build configuration list for PBXNativeTarget "PencilKitDemoTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BDE93E4C2336BA900065A678 /* Debug */,
-				BDE93E4D2336BA900065A678 /* Release */,
+				BD1DB9822336BF7C009E05E2 /* Debug */,
+				BD1DB9832336BF7C009E05E2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BDE93E4E2336BA900065A678 /* Build configuration list for PBXNativeTarget "PencilKitUITests" */ = {
+		BD1DB9842336BF7C009E05E2 /* Build configuration list for PBXNativeTarget "PencilKitDemoUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BDE93E4F2336BA900065A678 /* Debug */,
-				BDE93E502336BA900065A678 /* Release */,
+				BD1DB9852336BF7C009E05E2 /* Debug */,
+				BD1DB9862336BF7C009E05E2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = BDE93E162336BA8F0065A678 /* Project object */;
+	rootObject = BD1DB94C2336BF7B009E05E2 /* Project object */;
 }

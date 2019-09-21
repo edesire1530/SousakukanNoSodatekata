@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  PencilKit
+//  PencilKitDemo
 //
 //  Created by gree_mini on 2019/09/22.
 //  Copyright © 2019 gree. All rights reserved.
