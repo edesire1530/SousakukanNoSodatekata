@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BD89E3F42336D1F9002D51C6 /* Experience.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = BD89E3F32336D1F9002D51C6 /* Experience.rcproject */; };
 		BD9690552336CB3F00BFEEBB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD9690542336CB3F00BFEEBB /* AppDelegate.swift */; };
 		BD9690572336CB3F00BFEEBB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD9690562336CB3F00BFEEBB /* SceneDelegate.swift */; };
 		BD9690592336CB3F00BFEEBB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD9690582336CB3F00BFEEBB /* ViewController.swift */; };
@@ -15,7 +16,6 @@
 		BD9690612336CB4000BFEEBB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD96905F2336CB4000BFEEBB /* LaunchScreen.storyboard */; };
 		BD96906C2336CB4000BFEEBB /* RealityKitDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD96906B2336CB4000BFEEBB /* RealityKitDemoTests.swift */; };
 		BD9690772336CB4000BFEEBB /* RealityKitDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD9690762336CB4000BFEEBB /* RealityKitDemoUITests.swift */; };
-		BD9690852336CBEA00BFEEBB /* Experience.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = BD9690842336CBEA00BFEEBB /* Experience.rcproject */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		BD89E3F32336D1F9002D51C6 /* Experience.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = Experience.rcproject; sourceTree = "<group>"; };
 		BD9690512336CB3F00BFEEBB /* RealityKitDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RealityKitDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD9690542336CB3F00BFEEBB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BD9690562336CB3F00BFEEBB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -50,7 +51,6 @@
 		BD9690722336CB4000BFEEBB /* RealityKitDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RealityKitDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD9690762336CB4000BFEEBB /* RealityKitDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RealityKitDemoUITests.swift; sourceTree = "<group>"; };
 		BD9690782336CB4000BFEEBB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		BD9690842336CBEA00BFEEBB /* Experience.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; name = Experience.rcproject; path = ../../../Experience.rcproject; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,8 +104,8 @@
 				BD9690542336CB3F00BFEEBB /* AppDelegate.swift */,
 				BD9690562336CB3F00BFEEBB /* SceneDelegate.swift */,
 				BD9690582336CB3F00BFEEBB /* ViewController.swift */,
-				BD9690842336CBEA00BFEEBB /* Experience.rcproject */,
 				BD96905A2336CB3F00BFEEBB /* Main.storyboard */,
+				BD89E3F32336D1F9002D51C6 /* Experience.rcproject */,
 				BD96905D2336CB4000BFEEBB /* Assets.xcassets */,
 				BD96905F2336CB4000BFEEBB /* LaunchScreen.storyboard */,
 				BD9690622336CB4000BFEEBB /* Info.plist */,
@@ -264,7 +264,7 @@
 			files = (
 				BD9690592336CB3F00BFEEBB /* ViewController.swift in Sources */,
 				BD9690552336CB3F00BFEEBB /* AppDelegate.swift in Sources */,
-				BD9690852336CBEA00BFEEBB /* Experience.rcproject in Sources */,
+				BD89E3F42336D1F9002D51C6 /* Experience.rcproject in Sources */,
 				BD9690572336CB3F00BFEEBB /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
