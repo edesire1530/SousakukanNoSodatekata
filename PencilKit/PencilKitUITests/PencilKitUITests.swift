@@ -3,7 +3,7 @@
 //  PencilKitUITests
 //
 //  Created by gree_mini on 2019/09/22.
-//  Copyright © 2019 gree_mini. All rights reserved.
+//  Copyright © 2019 gree. All rights reserved.
 //
 
 import XCTest
